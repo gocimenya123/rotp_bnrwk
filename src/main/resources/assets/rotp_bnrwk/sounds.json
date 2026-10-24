@@ -1,0 +1,56 @@
+{
+  "summon": {
+    "subtitle": "subtitles.rotp_bnrwk.summon",
+    "sounds": [
+      "rotp_bnrwk:summon"
+    ]
+  },
+  "barrage": {
+    "subtitle": "subtitles.rotp_bnrwk.barrage",
+    "sounds": [
+      "rotp_bnrwk:barrage"
+    ]
+  },
+  "plant": {
+    "subtitle": "subtitles.rotp_bnrwk.plant",
+    "sounds": [
+      "rotp_bnrwk:plant"
+    ]
+  },
+  "throw": {
+    "subtitle": "subtitles.rotp_bnrwk.throw",
+    "sounds": [
+      "rotp_bnrwk:throw"
+    ]
+  },
+  "smoke": {
+    "subtitle": "subtitles.rotp_bnrwk.smoke",
+    "sounds": [
+      "rotp_bnrwk:smoke"
+    ]
+  },
+  "tick": {
+    "subtitle": "subtitles.rotp_bnrwk.tick",
+    "sounds": [
+      "rotp_bnrwk:tick"
+    ]
+  },
+  "tock": {
+    "subtitle": "subtitles.rotp_bnrwk.tock",
+    "sounds": [
+      "rotp_bnrwk:tock"
+    ]
+  },
+  "pin_spring": {
+    "subtitle": "subtitles.rotp_bnrwk.pin_spring",
+    "sounds": [
+      "rotp_bnrwk:pin_spring"
+    ]
+  },
+  "bomb_explode": {
+    "subtitle": "subtitles.rotp_bnrwk.bomb_explode",
+    "sounds": [
+      "rotp_bnrwk:bomb_explode"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL-3.0"
+
+[[mods]]
+modId="rotp_bnrwk"
+version="${file.jarVersion}"
+displayName="RotP: Boku no Rhythm wo Kiitekure"
+authors="Gocimenya, inkegg"
+description='''
+Adds the Stand "Boku no Rhythm wo Kiitekure" (Oyecomova, JoJo's Bizarre Adventure Part 7: Steel Ball Run)
+to Ripples of the Past. Plants clock-shaped contact bombs on anything it touches.
+'''
+
+[[dependencies.rotp_bnrwk]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotp_bnrwk]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotp_bnrwk]]
+    modId="jojo"
+    mandatory=true
+    versionRange="[0.2.2,)"
+    ordering="AFTER"
+    side="BOTH"
